@@ -1,3 +1,5 @@
+-- Comando INSERT gerado por IA para preencher o Banco de Dados
+
 USE sgui_database;
 
 -- 1. EMPLOYEES (Funcionários)
